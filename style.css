@@ -212,7 +212,7 @@ footer.footsy{
     line-height: 1.5;
 }
 /*#####################mobile###################*/
-@media screen and (max-width: 730px){
+@media screen and (max-width: 800px){
     ul.topnav li:not(:nth-child(1)){
         display: none; 
     }    
